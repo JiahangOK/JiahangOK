@@ -1,6 +1,6 @@
 Hi, this is JiahangOK.
 
-[![JiahangOK's github stats](https://github-readme-stats.vercel.app/api?username=jiahangok "![JiahangOK's github stats")](https://github.com/anuraghazra/github-readme-stats)
+[![JiahangOK's github stats](https://github-readme-stats.vercel.app/api?username=jiahangok)
 
 
 #### 👷 Check out what I'm currently working on
