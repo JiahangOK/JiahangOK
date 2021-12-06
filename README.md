@@ -2,22 +2,6 @@ Hi, this is JiahangOK.
 
 ![JiahangOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahangok&count_private=true)
 
-
-
-#### 👷 Check out what I'm currently working on
-
-- [JiahangOK/MEMC_course](https://github.com/JiahangOK/MEMC_course) - THU Methematics for Engineering Master Candidates.(清华大学工程硕士数学课程) (2 weeks ago)
-- [JiahangOK/ImageCompressionPractice](https://github.com/JiahangOK/ImageCompressionPractice) -  (6 months ago)
-- [JiahangOK/DSL_Research](https://github.com/JiahangOK/DSL_Research) - The repository is used to collect some papers and codes about DSL(Domain-Specific Language). (1 year ago)
-
-#### 🌱 Check out my recent projects
-
-- [JiahangOK/ImageCompressionPractice](https://github.com/JiahangOK/ImageCompressionPractice) - 
-- [JiahangOK/DIP_course](https://github.com/JiahangOK/DIP_course) - 清华大学软件学院《数字图像处理》课程
-- [JiahangOK/MEMC_course](https://github.com/JiahangOK/MEMC_course) - THU Methematics for Engineering Master Candidates.(清华大学工程硕士数学课程)
-- [JiahangOK/NMA_Research](https://github.com/JiahangOK/NMA_Research) - This repository is used to collect some papers and codes about NMA(Network Measurement and Analysis)
-- [JiahangOK/DSL_Research](https://github.com/JiahangOK/DSL_Research) - The repository is used to collect some papers and codes about DSL(Domain-Specific Language).
-
 #### ⭐ Check out my recent stars
 
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
