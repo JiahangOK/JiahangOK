@@ -19,12 +19,6 @@ Hi, this is JiahangOK.
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 👯 Check out my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
-
-
 #### 📜 Check out my recent blog posts
 {{range rss "https://jiahangok.github.io/atom.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
