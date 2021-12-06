@@ -1,6 +1,7 @@
 Hi, this is JiahangOK.
 
-[![JiahangOK's github stats](https://github-readme-stats.vercel.app/api?username=jiahangok)
+[![JiahangOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahangok)](https://github.com/jiahangok)
+
 
 
 #### 👷 Check out what I'm currently working on
