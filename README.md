@@ -1,6 +1,6 @@
 Hi, this is JiahangOK.
 
-[![JiahangOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahangok)](https://github.com/jiahangok)
+![JiahangOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahangok&count_private=true)
 
 
 
