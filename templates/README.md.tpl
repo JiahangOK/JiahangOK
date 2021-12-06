@@ -20,7 +20,7 @@ Hi, this is JiahangOK.
 {{- end}}
 
 #### 👯 Check out my recent followers
-{{range followers 5}}
+{{range following 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
