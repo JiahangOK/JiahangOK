@@ -1,4 +1,4 @@
-Hi, this is Jiahang.
+Hi, this is JiahangOK.
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
@@ -20,10 +20,6 @@ Hi, this is Jiahang.
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 🔨 Check out my recent pull requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
 
 #### 📜 Check out my recent blog posts
 {{range rss "https://jiahangok.github.io/atom.xml" 5}}
