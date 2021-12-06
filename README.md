@@ -1,4 +1,4 @@
-Hi, this is Jiahang.
+Hi, this is JiahangOK.
 
 #### 👷 Check out what I'm currently working on
 
@@ -29,8 +29,6 @@ Hi, this is Jiahang.
 - [baolintian](https://github.com/baolintian)
 - [jinyan1998](https://github.com/jinyan1998)
 - [Elsafty2](https://github.com/Elsafty2)
-
-#### 🔨 Check out my recent pull requests
 
 
 #### 📜 Check out my recent blog posts
