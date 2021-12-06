@@ -20,20 +20,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case. (1 day ago)
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo (3 days ago)
 - [litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题  A simple and elegant theme for hexo. (3 days ago)
-- [naiba/nezha](https://github.com/naiba/nezha) - :trollface: 哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，计划任务和在线终端。 (5 days ago)
-
-#### 👯 Check out my recent followers
-
-- [LebronAl](https://github.com/LebronAl)
-- [liuweiky](https://github.com/liuweiky)
-- [baolintian](https://github.com/baolintian)
-- [jinyan1998](https://github.com/jinyan1998)
-- [Elsafty2](https://github.com/Elsafty2)
-
 
 #### 📜 Check out my recent blog posts
 
