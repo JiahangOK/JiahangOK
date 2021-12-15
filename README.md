@@ -4,7 +4,7 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
-- [i5ting/rust-fe](https://github.com/i5ting/rust-fe) - rust是未来前端基础设施 (1 day ago)
+- [i5ting/rust-fe](https://github.com/i5ting/rust-fe) - Rust是未来前端基础设施 (1 day ago)
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (2 days ago)
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time (6 days ago)
 - [intel/iotg_tsn_ref_sw](https://github.com/intel/iotg_tsn_ref_sw) - IOTG Time-Sensitive Networking Reference Software (1 week ago)
