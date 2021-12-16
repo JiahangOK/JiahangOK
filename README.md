@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
+- [shibobo/happybirthday](https://github.com/shibobo/happybirthday) - 帮基友做的，祝福她女朋友生日快乐 (today)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (today)
 - [0x2142/switchport-web-dashboard](https://github.com/0x2142/switchport-web-dashboard) - A simple web dashboard to display network switch port capacity (today)
 - [xawen/PRTG-PortStatus](https://github.com/xawen/PRTG-PortStatus) - Network switch port status monitors for PRTG. (today)
 - [WilmerWang/autoLiterature](https://github.com/WilmerWang/autoLiterature) - autoLiterature是一个基于Dropbox和Python的自动文献管理器。 (1 day ago)
-- [i5ting/rust-fe](https://github.com/i5ting/rust-fe) - Rust是未来前端基础设施 (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
