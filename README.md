@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
+- [lmk123/crx-selection-translate](https://github.com/lmk123/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频翻译扩展。 (today)
 - [shibobo/happybirthday](https://github.com/shibobo/happybirthday) - 帮基友做的，祝福她女朋友生日快乐 (1 day ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 day ago)
 - [0x2142/switchport-web-dashboard](https://github.com/0x2142/switchport-web-dashboard) - A simple web dashboard to display network switch port capacity (1 day ago)
 - [xawen/PRTG-PortStatus](https://github.com/xawen/PRTG-PortStatus) - Network switch port status monitors for PRTG. (1 day ago)
-- [WilmerWang/autoLiterature](https://github.com/WilmerWang/autoLiterature) - autoLiterature是一个基于Dropbox和Python的自动文献管理器。 (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
