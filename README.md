@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
+- [PacktPublishing/Learn-Three.js-Third-Edition](https://github.com/PacktPublishing/Learn-Three.js-Third-Edition) - Learn Three.js Third Edition, published by Packt (today)
+- [Sweetnow/thos-auto-exit-campus](https://github.com/Sweetnow/thos-auto-exit-campus) - 一键填报出校申请 (today)
 - [xmk2222/TsinghuaDailyReport](https://github.com/xmk2222/TsinghuaDailyReport) - 清华大学学生健康和出行情况报告每日自动提交 (today)
 - [GrindGold/awsome-projects](https://github.com/GrindGold/awsome-projects) - 😎「计算机淘金手册」立志收录各种酷炫、高大上、对小白友好的开源项目，包括但不限于Java、C&#43;&#43;、Python、Golang、JavaScript、人工智能、机器学习、人工智能等相关项目。 (3 days ago)
 - [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习... (4 days ago)
-- [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding. (1 week ago)
-- [DropsDevopsOrg/ECommerceCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers) - 实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、企查查、招聘网站、闲鱼、阿里任务、博客园、微博、百度贴吧、豆瓣电影、包图网、全景网、豆瓣音乐、某省药监局、搜狐新闻、机器学习文本采集、fofa资产采集、汽车之家、国家统计局、百度关键词收录数、蜘蛛泛目录、今日头条、豆瓣影评、携程、小米应用商店、安居客、途家民宿❤️❤️❤️。微信爬虫展示项目: (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
