@@ -4,7 +4,7 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
-- [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz. (today)
+- [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz. (1 day ago)
 - [PacktPublishing/Learn-Three.js-Third-Edition](https://github.com/PacktPublishing/Learn-Three.js-Third-Edition) - Learn Three.js Third Edition, published by Packt (1 week ago)
 - [Sweetnow/thos-auto-exit-campus](https://github.com/Sweetnow/thos-auto-exit-campus) - 一键填报出校申请 (1 week ago)
 - [xmk2222/TsinghuaDailyReport](https://github.com/xmk2222/TsinghuaDailyReport) - 清华大学学生健康和出行情况报告每日自动提交 (1 week ago)
