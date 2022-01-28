@@ -8,7 +8,7 @@ Hi, this is JiahangOK.
 - [PacktPublishing/Learn-Three.js-Third-Edition](https://github.com/PacktPublishing/Learn-Three.js-Third-Edition) - Learn Three.js Third Edition, published by Packt (2 weeks ago)
 - [Sweetnow/thos-auto-exit-campus](https://github.com/Sweetnow/thos-auto-exit-campus) - 一键填报出校申请 (2 weeks ago)
 - [xmk2222/TsinghuaDailyReport](https://github.com/xmk2222/TsinghuaDailyReport) - 清华大学学生健康和出行情况报告每日自动提交 (2 weeks ago)
-- [GrindGold/awsome-projects](https://github.com/GrindGold/awsome-projects) - 😎「计算机淘金手册」立志收录各种酷炫、高大上、对小白友好的开源项目，包括但不限于Java、C&#43;&#43;、Python、Golang、JavaScript、人工智能、机器学习、人工智能等相关项目。 (2 weeks ago)
+- [GrindGold/awsome-projects](https://github.com/GrindGold/awsome-projects) - 😎「计算机淘金手册」立志收录各种酷炫、高大上、对小白友好的开源项目，包括但不限于Java、C&#43;&#43;、Python、Golang、JavaScript、人工智能、机器学习、人工智能等相关项目。 (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
