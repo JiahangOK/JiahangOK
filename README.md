@@ -4,8 +4,8 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
-- [stacklens/django-vue-tutorial](https://github.com/stacklens/django-vue-tutorial) - 用 django-rest-framework 和 vue 搭建前后端分离的个人博客 (6 days ago)
-- [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses) - 名校公开课程评价网 (6 days ago)
+- [stacklens/django-vue-tutorial](https://github.com/stacklens/django-vue-tutorial) - 用 django-rest-framework 和 vue 搭建前后端分离的个人博客 (1 week ago)
+- [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses) - 名校公开课程评价网 (1 week ago)
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz. (2 weeks ago)
 - [PacktPublishing/Learn-Three.js-Third-Edition](https://github.com/PacktPublishing/Learn-Three.js-Third-Edition) - Learn Three.js Third Edition, published by Packt (3 weeks ago)
 - [Sweetnow/thos-auto-exit-campus](https://github.com/Sweetnow/thos-auto-exit-campus) - 一键填报出校申请 (3 weeks ago)
