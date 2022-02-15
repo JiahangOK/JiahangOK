@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
+- [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。 (today)
 - [salgum1114/react-3d-editor](https://github.com/salgum1114/react-3d-editor) - A-Frame based 3D visualization editing tool. (6 days ago)
 - [marcofugaro/three-projected-material](https://github.com/marcofugaro/three-projected-material) - 📽 Three.js Material which lets you do Texture Projection on a 3d Model (6 days ago)
 - [tengge1/ShadowEditor](https://github.com/tengge1/ShadowEditor) - Cross-platform 3D scene editor based on three.js, golang and mongodb for desktop and web. https://tengge1.github.io/ShadowEditor-examples/ (6 days ago)
 - [stacklens/django-vue-tutorial](https://github.com/stacklens/django-vue-tutorial) - 用 django-rest-framework 和 vue 搭建前后端分离的个人博客 (2 weeks ago)
-- [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses) - 名校公开课程评价网 (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
