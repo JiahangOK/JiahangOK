@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
+- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 (today)
+- [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.) (today)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Chinese). (1 day ago)
 - [asiL-tcefreP/blog-vue](https://github.com/asiL-tcefreP/blog-vue) - blog Front-end（个人博客前端服务器）（基于Vue&#43;Springboot&#43;mybatisplus&#43;SpringCloud&#43;ELK等框架实现） 创作不易，如果可以，请帮忙star一下，谢谢！ (4 days ago)
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。 (1 week ago)
-- [salgum1114/react-3d-editor](https://github.com/salgum1114/react-3d-editor) - A-Frame based 3D visualization editing tool. (2 weeks ago)
-- [marcofugaro/three-projected-material](https://github.com/marcofugaro/three-projected-material) - 📽 Three.js Material which lets you do Texture Projection on a 3d Model (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
