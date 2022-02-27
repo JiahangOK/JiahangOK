@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
-- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures. (today)
-- [mkwjoh004uct/A-Time-Sensitive-network-Switch-Implementation-using-P4](https://github.com/mkwjoh004uct/A-Time-Sensitive-network-Switch-Implementation-using-P4) - Final year research project to design a programmable virtual switch based on the specifications of a TSN to be implemented on a TSN network (in Mininet) comprised of various TSN switches and a network controller. (3 days ago)
-- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 (3 days ago)
-- [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.) (3 days ago)
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Chinese). (4 days ago)
+- [ZhangHanDong/tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) - 《Rust编程之道》随书源码 (today)
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures. (1 day ago)
+- [mkwjoh004uct/A-Time-Sensitive-network-Switch-Implementation-using-P4](https://github.com/mkwjoh004uct/A-Time-Sensitive-network-Switch-Implementation-using-P4) - Final year research project to design a programmable virtual switch based on the specifications of a TSN to be implemented on a TSN network (in Mininet) comprised of various TSN switches and a network controller. (4 days ago)
+- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 (4 days ago)
+- [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
