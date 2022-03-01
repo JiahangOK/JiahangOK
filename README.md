@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
+- [OpenAtomFoundation/TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny) - 腾讯物联网终端操作系统 (today)
 - [MobiSense/SwarmMap](https://github.com/MobiSense/SwarmMap) - SwarmMap: Scaling Up Real-time Collaborative Visual SLAM at the Edge (1 day ago)
 - [ZhangHanDong/tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) - 《Rust编程之道》随书源码 (2 days ago)
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures. (3 days ago)
 - [mkwjoh004uct/A-Time-Sensitive-network-Switch-Implementation-using-P4](https://github.com/mkwjoh004uct/A-Time-Sensitive-network-Switch-Implementation-using-P4) - Final year research project to design a programmable virtual switch based on the specifications of a TSN to be implemented on a TSN network (in Mininet) comprised of various TSN switches and a network controller. (6 days ago)
-- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
