@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
+- [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn&#39;t teach themself. (today)
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - 一套面向扩展设计的企业级低代码技术体系 (1 day ago)
 - [analogdevicesinc/hdl](https://github.com/analogdevicesinc/hdl) - HDL libraries and projects (1 day ago)
 - [OpenAtomFoundation/TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny) - 腾讯物联网终端操作系统 (2 days ago)
 - [MobiSense/SwarmMap](https://github.com/MobiSense/SwarmMap) - SwarmMap: Scaling Up Real-time Collaborative Visual SLAM at the Edge (3 days ago)
-- [ZhangHanDong/tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) - 《Rust编程之道》随书源码 (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
