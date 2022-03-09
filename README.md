@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
-- [alexforencich/verilog-ethernet](https://github.com/alexforencich/verilog-ethernet) - Verilog Ethernet components for FPGA implementation (1 day ago)
-- [Xilinx/Vitis-Tutorials](https://github.com/Xilinx/Vitis-Tutorials) - Vitis In-Depth Tutorials (1 day ago)
-- [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn&#39;t teach themself. (5 days ago)
-- [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - 一套面向扩展设计的企业级低代码技术体系 (6 days ago)
-- [analogdevicesinc/hdl](https://github.com/analogdevicesinc/hdl) - HDL libraries and projects (6 days ago)
+- [alexforencich/verilog-ethernet](https://github.com/alexforencich/verilog-ethernet) - Verilog Ethernet components for FPGA implementation (2 days ago)
+- [Xilinx/Vitis-Tutorials](https://github.com/Xilinx/Vitis-Tutorials) - Vitis In-Depth Tutorials (2 days ago)
+- [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn&#39;t teach themself. (6 days ago)
+- [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - 一套面向扩展设计的企业级低代码技术体系 (1 week ago)
+- [analogdevicesinc/hdl](https://github.com/analogdevicesinc/hdl) - HDL libraries and projects (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
