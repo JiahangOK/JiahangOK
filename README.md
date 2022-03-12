@@ -4,10 +4,10 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
-- [ChrisXu1006/TrustZone-SecVerilog](https://github.com/ChrisXu1006/TrustZone-SecVerilog) - Verifying TrustZone with SecVerilog (today)
-- [sergioagp/TrustSecSiCode](https://github.com/sergioagp/TrustSecSiCode) - A hardware-software co-design framework for easing the economy of meeting the new generation of embedded systems requirements. Arm TrustZone technology is exploited to implement the root of trust of a virtualization-based architecture that allows the execution of a General Purpose Operating System (GPOS) side-by-side with a Real-Time Operating System (RTOS). RTOS services were offloaded to hardware,so that we can present simultaneous improvements on performance and determinism. Instead of focusing in a concrete application, we provide a complete framework, specifically tailored for Zynq-base devices, that developers can use to accelerate a bunch of distinct applications across different embedded industries. (today)
-- [alexforencich/verilog-ethernet](https://github.com/alexforencich/verilog-ethernet) - Verilog Ethernet components for FPGA implementation (4 days ago)
-- [Xilinx/Vitis-Tutorials](https://github.com/Xilinx/Vitis-Tutorials) - Vitis In-Depth Tutorials (4 days ago)
+- [ChrisXu1006/TrustZone-SecVerilog](https://github.com/ChrisXu1006/TrustZone-SecVerilog) - Verifying TrustZone with SecVerilog (1 day ago)
+- [sergioagp/TrustSecSiCode](https://github.com/sergioagp/TrustSecSiCode) - A hardware-software co-design framework for easing the economy of meeting the new generation of embedded systems requirements. Arm TrustZone technology is exploited to implement the root of trust of a virtualization-based architecture that allows the execution of a General Purpose Operating System (GPOS) side-by-side with a Real-Time Operating System (RTOS). RTOS services were offloaded to hardware,so that we can present simultaneous improvements on performance and determinism. Instead of focusing in a concrete application, we provide a complete framework, specifically tailored for Zynq-base devices, that developers can use to accelerate a bunch of distinct applications across different embedded industries. (1 day ago)
+- [alexforencich/verilog-ethernet](https://github.com/alexforencich/verilog-ethernet) - Verilog Ethernet components for FPGA implementation (5 days ago)
+- [Xilinx/Vitis-Tutorials](https://github.com/Xilinx/Vitis-Tutorials) - Vitis In-Depth Tutorials (5 days ago)
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn&#39;t teach themself. (1 week ago)
 
 #### 📜 Check out my recent blog posts
