@@ -4,7 +4,7 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
-- [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) - Collection of advice for prospective and current PhD students (1 week ago)
+- [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) - Collection of advice for prospective and current PhD students (2 weeks ago)
 - [ecceman/affinity](https://github.com/ecceman/affinity) - Free 2D symbols for computer network diagrams (2 weeks ago)
 - [7-sevens/Developer-Books](https://github.com/7-sevens/Developer-Books) - 编程开发相关书籍整理分享，持续更新... (3 weeks ago)
 - [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱 (1 month ago)
