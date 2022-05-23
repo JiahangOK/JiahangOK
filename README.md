@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
+- [zhangdebiao/awesome-industrial-control-system-security](https://github.com/zhangdebiao/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security. (today)
+- [ITI/ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools) - Tools, tips, tricks, and more for exploring ICS Security. (today)
 - [choppsv1/netconf](https://github.com/choppsv1/netconf) - Netconf Server and Client Library for Python (3 days ago)
 - [ncclient/ncclient](https://github.com/ncclient/ncclient) - Python library for NETCONF clients (3 days ago)
 - [fuchuanpu/Whisper](https://github.com/fuchuanpu/Whisper) - Realtime Robust Malicious Traffic Detection via Frequency Domain Analysis (6 days ago)
-- [nreusch/TSNConf](https://github.com/nreusch/TSNConf) -  (3 weeks ago)
-- [Horacehxw/Ziggo-Evaluation-Toolkit](https://github.com/Horacehxw/Ziggo-Evaluation-Toolkit) - Time sensitive network performance evaluation toolkit, based on Zynq7000 FPGA architecture. (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
