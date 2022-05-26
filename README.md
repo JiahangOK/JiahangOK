@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
+- [pConst/basic_verilog](https://github.com/pConst/basic_verilog) - Must-have verilog systemverilog modules (today)
 - [p4lang/tutorials](https://github.com/p4lang/tutorials) - P4 language tutorials (2 days ago)
 - [zhangdebiao/awesome-industrial-control-system-security](https://github.com/zhangdebiao/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security. (3 days ago)
 - [ITI/ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools) - Tools, tips, tricks, and more for exploring ICS Security. (3 days ago)
 - [choppsv1/netconf](https://github.com/choppsv1/netconf) - Netconf Server and Client Library for Python (6 days ago)
-- [ncclient/ncclient](https://github.com/ncclient/ncclient) - Python library for NETCONF clients (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
