@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
+- [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash (today)
 - [openil/sysrepo-tsn](https://github.com/openil/sysrepo-tsn) -  (1 day ago)
 - [mbj4668/pyang](https://github.com/mbj4668/pyang) - An extensible YANG validator and converter in python (1 day ago)
 - [DataV-Team/datav.jiaminghi.com](https://github.com/DataV-Team/datav.jiaminghi.com) - DataV组件库文档 (3 days ago)
 - [xjblszyy/JiuJia](https://github.com/xjblszyy/JiuJia) - 抢九价的脚本(技术无罪，请勿盈利)(抢购源:约苗，知苗易约，成都市金牛区妇幼保健院服务号) (4 days ago)
-- [pConst/basic_verilog](https://github.com/pConst/basic_verilog) - Must-have verilog systemverilog modules (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
