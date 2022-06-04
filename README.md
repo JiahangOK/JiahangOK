@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
-- [CESNET/libnetconf2](https://github.com/CESNET/libnetconf2) - C NETCONF library (1 day ago)
-- [jwwthu/CommSurvey](https://github.com/jwwthu/CommSurvey) - This is the repository for the collection of surveys and reviews in communication and networking domains. (3 days ago)
-- [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash (3 days ago)
-- [openil/sysrepo-tsn](https://github.com/openil/sysrepo-tsn) -  (4 days ago)
-- [mbj4668/pyang](https://github.com/mbj4668/pyang) - An extensible YANG validator and converter in python (4 days ago)
+- [CESNET/libnetconf2](https://github.com/CESNET/libnetconf2) - C NETCONF library (2 days ago)
+- [jwwthu/CommSurvey](https://github.com/jwwthu/CommSurvey) - This is the repository for the collection of surveys and reviews in communication and networking domains. (4 days ago)
+- [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash (4 days ago)
+- [openil/sysrepo-tsn](https://github.com/openil/sysrepo-tsn) -  (5 days ago)
+- [mbj4668/pyang](https://github.com/mbj4668/pyang) - An extensible YANG validator and converter in python (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
