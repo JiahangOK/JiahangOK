@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
-- [CESNET/netconf-cli](https://github.com/CESNET/netconf-cli) - A NETCONF-talking CLI (1 day ago)
-- [YangModels/yang](https://github.com/YangModels/yang) - YANG modules from standards organizations such as the IETF, The IEEE, The Metro Ethernet Forum, open source such as Open Daylight or vendor specific modules (1 day ago)
-- [CESNET/libnetconf2](https://github.com/CESNET/libnetconf2) - C NETCONF library (4 days ago)
-- [jwwthu/CommSurvey](https://github.com/jwwthu/CommSurvey) - This is the repository for the collection of surveys and reviews in communication and networking domains. (6 days ago)
-- [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash (6 days ago)
+- [CESNET/netconf-cli](https://github.com/CESNET/netconf-cli) - A NETCONF-talking CLI (2 days ago)
+- [YangModels/yang](https://github.com/YangModels/yang) - YANG modules from standards organizations such as the IETF, The IEEE, The Metro Ethernet Forum, open source such as Open Daylight or vendor specific modules (2 days ago)
+- [CESNET/libnetconf2](https://github.com/CESNET/libnetconf2) - C NETCONF library (5 days ago)
+- [jwwthu/CommSurvey](https://github.com/jwwthu/CommSurvey) - This is the repository for the collection of surveys and reviews in communication and networking domains. (1 week ago)
+- [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
