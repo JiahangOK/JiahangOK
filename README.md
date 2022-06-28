@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
+- [TrinityEmulator/TrinityEmulator](https://github.com/TrinityEmulator/TrinityEmulator) - Trinity is an Android emulator designed to simultaneously meet the goals of good compatibility, security and efficiency with the novel notion of graphics projection space. (today)
+- [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业 (today)
 - [ITHcc/Beijing-HPV-NODE](https://github.com/ITHcc/Beijing-HPV-NODE) - 北京地区HPV九价疫苗脚本 (3 days ago)
 - [DataV-Team/DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布) (1 week ago)
 - [UHH-ISS/omnet-802.1cb](https://github.com/UHH-ISS/omnet-802.1cb) - IEEE 802.1CB FRER implementation in OMNeT&#43;&#43; (2 weeks ago)
-- [CoRE-RG/SDN4CoRE](https://github.com/CoRE-RG/SDN4CoRE) - SDN4CoRE (Software-Defined Networking for Communication over Realtime Ethernet) is an open-source extension for the event-based simulation of programmable (software-defined) real-time Ethernet networks in the OMNeT&#43;&#43; simulation system. (2 weeks ago)
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories. (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
