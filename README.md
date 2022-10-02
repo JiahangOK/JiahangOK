@@ -7,7 +7,7 @@ Hi, this is JiahangOK.
 - [chipsalliance/verible](https://github.com/chipsalliance/verible) - Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server (1 week ago)
 - [gengyl08/NetFPGA-10G](https://github.com/gengyl08/NetFPGA-10G) - Yilong&#39;s NetFPGA-10G Repo (2 weeks ago)
 - [NetFPGA/NetFPGA-PLUS](https://github.com/NetFPGA/NetFPGA-PLUS) -  (3 weeks ago)
-- [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles! (4 weeks ago)
+- [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles! (1 month ago)
 - [ros2/demos](https://github.com/ros2/demos) -  (1 month ago)
 
 #### 📜 Check out my recent blog posts
