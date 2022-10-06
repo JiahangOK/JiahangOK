@@ -4,9 +4,9 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
-- [Blitzer207/C-Resource](https://github.com/Blitzer207/C-Resource) - 黑马程序员匠心之作|C&#43;&#43;教程从0到1入门编程 (today)
+- [Blitzer207/C-Resource](https://github.com/Blitzer207/C-Resource) - 黑马程序员匠心之作|C&#43;&#43;教程从0到1入门编程 (1 day ago)
 - [chipsalliance/verible](https://github.com/chipsalliance/verible) - Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server (2 weeks ago)
-- [gengyl08/NetFPGA-10G](https://github.com/gengyl08/NetFPGA-10G) - Yilong&#39;s NetFPGA-10G Repo (2 weeks ago)
+- [gengyl08/NetFPGA-10G](https://github.com/gengyl08/NetFPGA-10G) - Yilong&#39;s NetFPGA-10G Repo (3 weeks ago)
 - [NetFPGA/NetFPGA-PLUS](https://github.com/NetFPGA/NetFPGA-PLUS) -  (1 month ago)
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles! (1 month ago)
 
