@@ -4,8 +4,8 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
-- [xupgit/Zynq-Design-using-Vivado](https://github.com/xupgit/Zynq-Design-using-Vivado) - This XUP course provides an introduction to embedded system design on Zynq using the Xilinx Vivado software suite. (today)
-- [xl4-shiro/excelfore-gptp](https://github.com/xl4-shiro/excelfore-gptp) - gPTP, IEEE 802.1AS-REV implementation (1 day ago)
+- [xupgit/Zynq-Design-using-Vivado](https://github.com/xupgit/Zynq-Design-using-Vivado) - This XUP course provides an introduction to embedded system design on Zynq using the Xilinx Vivado software suite. (1 day ago)
+- [xl4-shiro/excelfore-gptp](https://github.com/xl4-shiro/excelfore-gptp) - gPTP, IEEE 802.1AS-REV implementation (2 days ago)
 - [viduraakalanka/HDL-Bits-Solutions](https://github.com/viduraakalanka/HDL-Bits-Solutions) - This is a repository containing solutions to the problem statements given in HDL Bits website. (1 week ago)
 - [MeshSr/ONetSwitch](https://github.com/MeshSr/ONetSwitch) - ONetSwitch is an open Software Defined Networking (SDN) platform (1 week ago)
 - [Blitzer207/C-Resource](https://github.com/Blitzer207/C-Resource) - 黑马程序员匠心之作|C&#43;&#43;教程从0到1入门编程 (1 week ago)
