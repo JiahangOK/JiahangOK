@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
+- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (today)
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (2 days ago)
 - [xupgit/Zynq-Design-using-Vivado](https://github.com/xupgit/Zynq-Design-using-Vivado) - This XUP course provides an introduction to embedded system design on Zynq using the Xilinx Vivado software suite. (5 days ago)
 - [xl4-shiro/excelfore-gptp](https://github.com/xl4-shiro/excelfore-gptp) - gPTP, IEEE 802.1AS-REV implementation (6 days ago)
 - [viduraakalanka/HDL-Bits-Solutions](https://github.com/viduraakalanka/HDL-Bits-Solutions) - This is a repository containing solutions to the problem statements given in HDL Bits website. (2 weeks ago)
-- [MeshSr/ONetSwitch](https://github.com/MeshSr/ONetSwitch) - ONetSwitch is an open Software Defined Networking (SDN) platform (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
