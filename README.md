@@ -4,7 +4,7 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
-- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (5 days ago)
+- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (6 days ago)
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (1 week ago)
 - [xupgit/Zynq-Design-using-Vivado](https://github.com/xupgit/Zynq-Design-using-Vivado) - This XUP course provides an introduction to embedded system design on Zynq using the Xilinx Vivado software suite. (1 week ago)
 - [xl4-shiro/excelfore-gptp](https://github.com/xl4-shiro/excelfore-gptp) - gPTP, IEEE 802.1AS-REV implementation (1 week ago)
