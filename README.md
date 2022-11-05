@@ -4,8 +4,8 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
-- [rxi/log.c](https://github.com/rxi/log.c) - A simple logging library implemented in C99 (3 days ago)
-- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (1 week ago)
+- [rxi/log.c](https://github.com/rxi/log.c) - A simple logging library implemented in C99 (4 days ago)
+- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (2 weeks ago)
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (2 weeks ago)
 - [xupgit/Zynq-Design-using-Vivado](https://github.com/xupgit/Zynq-Design-using-Vivado) - This XUP course provides an introduction to embedded system design on Zynq using the Xilinx Vivado software suite. (2 weeks ago)
 - [xl4-shiro/excelfore-gptp](https://github.com/xl4-shiro/excelfore-gptp) - gPTP, IEEE 802.1AS-REV implementation (2 weeks ago)
