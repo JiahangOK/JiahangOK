@@ -4,7 +4,7 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
-- [freecores/ha1588](https://github.com/freecores/ha1588) - Hardware Assisted IEEE 1588 IP Core (2 days ago)
+- [freecores/ha1588](https://github.com/freecores/ha1588) - Hardware Assisted IEEE 1588 IP Core (3 days ago)
 - [rxi/log.c](https://github.com/rxi/log.c) - A simple logging library implemented in C99 (1 week ago)
 - [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (2 weeks ago)
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (2 weeks ago)
