@@ -8,7 +8,7 @@ Hi, this is JiahangOK.
 - [rxi/log.c](https://github.com/rxi/log.c) - A simple logging library implemented in C99 (1 week ago)
 - [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (3 weeks ago)
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (3 weeks ago)
-- [xupgit/Zynq-Design-using-Vivado](https://github.com/xupgit/Zynq-Design-using-Vivado) - This XUP course provides an introduction to embedded system design on Zynq using the Xilinx Vivado software suite. (3 weeks ago)
+- [xupgit/Zynq-Design-using-Vivado](https://github.com/xupgit/Zynq-Design-using-Vivado) - This XUP course provides an introduction to embedded system design on Zynq using the Xilinx Vivado software suite. (4 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
