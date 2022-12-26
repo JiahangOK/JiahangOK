@@ -4,11 +4,11 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
+- [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (today)
+- [Horacehxw/Ziggo-Evaluation-Toolkit](https://github.com/Horacehxw/Ziggo-Evaluation-Toolkit) - Time sensitive network performance evaluation toolkit, based on Zynq7000 FPGA architecture. (today)
 - [freecores/ha1588](https://github.com/freecores/ha1588) - Hardware Assisted IEEE 1588 IP Core (1 month ago)
 - [rxi/log.c](https://github.com/rxi/log.c) - A simple logging library implemented in C99 (1 month ago)
 - [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (2 months ago)
-- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (2 months ago)
-- [xupgit/Zynq-Design-using-Vivado](https://github.com/xupgit/Zynq-Design-using-Vivado) - This XUP course provides an introduction to embedded system design on Zynq using the Xilinx Vivado software suite. (2 months ago)
 
 #### 📜 Check out my recent blog posts
 
