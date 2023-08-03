@@ -8,7 +8,7 @@ Hi, this is JiahangOK.
 - [sogou/workflow](https://github.com/sogou/workflow) - C&#43;&#43; Parallel Computing and Asynchronous Networking Engine (7 months ago)
 - [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (7 months ago)
 - [Horacehxw/Ziggo-Evaluation-Toolkit](https://github.com/Horacehxw/Ziggo-Evaluation-Toolkit) - Time sensitive network performance evaluation toolkit, based on Zynq7000 FPGA architecture. (7 months ago)
-- [freecores/ha1588](https://github.com/freecores/ha1588) - Hardware Assisted IEEE 1588 IP Core (8 months ago)
+- [freecores/ha1588](https://github.com/freecores/ha1588) - Hardware Assisted IEEE 1588 IP Core (9 months ago)
 
 #### 📜 Check out my recent blog posts
 
