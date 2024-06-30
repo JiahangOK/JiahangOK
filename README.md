@@ -4,7 +4,7 @@ Hi, this is JiahangOK.
 
 #### ⭐ Check out my recent stars
 
-- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000&#43;个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖【telegram百科】 (11 months ago)
+- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000&#43;个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖【tg百科】 (11 months ago)
 - [sogou/workflow](https://github.com/sogou/workflow) - C&#43;&#43; Parallel Computing and Asynchronous Networking Framework (2 years ago)
 - [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (2 years ago)
 - [MobiSense/Ziggo-Device](https://github.com/MobiSense/Ziggo-Device) - Time sensitive network performance evaluation toolkit, based on Zynq7000 FPGA architecture. (2 years ago)
